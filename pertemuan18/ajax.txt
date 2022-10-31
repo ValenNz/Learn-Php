@@ -1,0 +1,2 @@
+XMLHttlRequest()    : Mengelola requesr kita menggunakan ajax
+
